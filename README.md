@@ -2,11 +2,11 @@
 
 - ✨ My name **Bello Farouk**
 - ✨ I'm a **Full Stack Developer**
-- ✨ I’m currently learning **React Native**
+- ✨ I’m currently learning **DevOps**
 - ✨ I’m looking to collaborate on different **projects**
 - ✨ **Hobbies:** Football, Travel
 - ✨ **Current Company:** Pro College (Part time)
-- ✨ **Competencies:** JavaScript, Angular 8/9/10/11/12/13, TypeScript, Bootstrap, Material Designed Bootstrap, JQuery, Ionic 4/5, PHP, Node.js, Postgres, MySQL, HTML, CSS 
+- ✨ **Competencies:** JavaScript, Angular 8/9/10/11/12/13, TypeScript, Bootstrap, Material Designed Bootstrap, JQuery, Ionic 4/5, PHP, Node.js, Postgres, MySQL, HTML, CSS, React, React Native, Next.js
 
 
 - 📫 **How to reach me:**
