@@ -12,7 +12,7 @@
 - 📫 **How to reach me:**
 - **WhatsApp:** +2348026740688
 - **Gmail:** bellofarouk095@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/farouk-bello-b42001162
+- **LinkedIn:** https://www.linkedin.com/in/farouk-olalekan-bello
 - **Twitter:** https://twitter.com/umar_faruqqy
 - **facebook:** https://www.facebook.com/bfaruq1
 
